@@ -36,7 +36,7 @@ ___
 
 ## <font color="#039BE5">Personal Profile Statement</font>
 
-&nbsp; &nbsp; &nbsp; &nbsp; I am a <img src="images/typing_text.svg" height=32>
+&nbsp; &nbsp; &nbsp; &nbsp; I am a <img src="images/typing_text.svg" height=48>
  I have been developing software since 2007. I actively use ***C/C++, C#, Python***. Participated in projects in *F#, Java, Kotlin, JavaScript*. Contributed to Open-Source projects such as [Unreal Engine 4/5](https://github.com/EpicGames/UnrealEngine), [OpenFrameworks](https://github.com/openframeworks/openFrameworks), [TortoiseGit](https://github.com/TortoiseGit/TortoiseGit), etc. For the last 7 years I have been developing in C++ in the context of Unreal Engine. For a long time, I interacted with other engines, such as Unity, Unigine, NeoAxis, etc.  
 &nbsp; &nbsp; &nbsp; &nbsp; Self-starter and strong independent worker. Extensive experience in creating game mechanics with a focus on creating tools for designers. Strong team player. Have experience in managing small teams. Deep knowledge of backend and network client-server interactions. Familiar with the intricacies of version control systems.   
 &nbsp; &nbsp; &nbsp; &nbsp; I am able to find a common language with customers, identify needs for the end user and implement convenient and reliable applications from the UX point of view. In this regard, a fairly wide technology stack has developed. The main motivator for me is the feedback from the end users.
@@ -95,8 +95,8 @@ ___
             <td>
                 <style>
                     .vl {
-                    border-left: 2px solid lightblue;
-                    height: 70px;
+                        border-left: 2px solid lightblue;
+                        height: 70px;
                     }
                 </style>
                 <div class="vl"></div>
@@ -124,11 +124,56 @@ ___
     <hr>
     <table>
         <tr>
-            <td>                
-            </td>
-            <td>                
-            </td>
             <td>
+                <img src="https://img.shields.io/badge/September%202022-present-4dc71f">
+            </td>
+            <td style="width:75%">
+                <table style="width:100%">
+                    <tr>
+                        <td>
+                            <a href="https://temporal.games/"><img src="images/icons/work/temporal_logo_icon.svg" width=64></a>
+                        </td>
+                        <td style="width:75%">
+                            <style>
+                                .container {
+                                    height: 64px;
+                                    position: relative;
+                                }
+                                .vertical-center {
+                                    position: absolute;
+                                    top: 50%;
+                                    transform: translateY(-50%);
+                                }
+                            </style>                    
+                            <div class="container">
+                                <div class="vertical-center">
+                                    <a href="https://temporal.games/"><h1>Temporal Games inc.</h1></a>
+                                </div>
+                            </div>        
+                        </td>
+                    </tr>
+                </table>
+            <!--
+                <a href="https://temporal.games/">
+                    <img src="images/icons/work/temporal_logo_icon.svg" width=64>
+                    <style>
+                        .container {
+                            height: 64px;
+                            position: relative;
+                        }
+                        .vertical-center {
+                            position: absolute;
+                            top: 50%;
+                            transform: translateY(-50%);
+                        }
+                    </style>                    
+                    <div class="container">
+                        <div class="vertical-center">
+                            Temporal Games inc.
+                        </div>
+                    </div>
+                </a>
+            -->
             </td>
         </tr>
     </table>
