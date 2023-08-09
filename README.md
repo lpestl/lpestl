@@ -285,6 +285,147 @@ ___
                 <li>developed of an application to demonstrate the internal structure of various engines, visualized using CAD models (Unreal Engine / C++).</li>
             </td>
         </tr>
+        <!-- 
+        --
+        OctoBox Interactive 
+        --
+        -->
+        <tr>
+            <td width="25%">
+                <img src="https://img.shields.io/badge/January%202018-April%202018-993300">
+            </td>
+            <td width="75%">
+                 <table width="100%">
+                    <tr>
+                        <td>
+                            <a href="https://octoboxint.com/"><img src="images/icons/work/octobox.png" width=72></a>
+                        </td>
+                        <td style="width:75%">                  
+                            <h1><a href="https://octoboxint.com/">OctoBox Interactive</a></h1>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td />
+            <td>
+                <h2>Unreal Engine Programmer</h2>
+                <em><u>Achievements:</u></em><br />
+                <li>developed the functional part of the game "Knights VR" for Oculus and Vive;</li>
+                <li>developed mechanics for controlling a horse rider for VR;</li>
+                <li>several QTE minigames were developed for equestrian tournaments of the Middle Ages.</li>
+            </td>
+        </tr>
+        <!-- 
+        --
+        LANIT-TERCOM 
+        --
+        -->
+        <tr>
+            <td width="25%">
+                <img src="https://img.shields.io/badge/August%202015-April%202017-991100">
+            </td>
+            <td width="75%">
+                 <table width="100%">
+                    <tr>
+                        <td>
+                            <a href="https://lanit-tercom.ru/"><img src="images/icons/work/logo-lanit-tercom.png" height=64></a>
+                        </td>
+                        <td>                  
+                            <h1><a href="https://lanit-tercom.ru/">LANIT-TERCOM</a></h1>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td />
+            <td>
+                <h2>Lead software engineer</h2>
+                <em><u>Responsibilities:</u></em><br />
+                <li>liaison with overseas customers;</li>
+                <li>coordination of software requirements specifications;</li>
+                <li>leading the design and development process;</li>
+                <li>providing support for the end product.</li><br />
+                <em><u>Achievements:</u></em><br />
+                <li>developed the mobile game “VR Adventures of Pirate Cat” and published it on Google Play (Unity3D 4-5, Facebook SDK);</li>
+                <li>developed an application called Tennis Manager for the Samsung Gear S2 smart watch (TizenSDK, JS, Angular);</li>
+                <li>developed a full-fledged Facebook plug-in for Unreal Engine 4 for Windows (UE4/C++);</li>
+                <li>developed various applications for VR HTC Vive using Unreal Engine 4.</li>
+            </td>
+        </tr>
+        <!-- 
+        --
+        HitekLab Light Technologies LLC
+        --
+        -->
+        <tr>
+            <td width="25%">
+                <img src="https://img.shields.io/badge/December%202013-June%202014-990000">
+            </td>
+            <td width="75%">
+                 <table width="100%">
+                    <tr>
+                        <td>
+                            <a href="http://hiteklab.ru/"><img src="images/icons/work/hiteklogo3.png"></a>
+                        </td>
+                        <td>                  
+                            <h1><a href="http://hiteklab.ru/">HitekLab Light Technologies LLC</a></h1>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td />
+            <td>
+                <h2>C/C++ programmer</h2>
+                <em><u>Responsibilities:</u></em><br />
+                <li>developed and supported software for controlling an interactive floor projection system;</li>
+                <li> provided support to users of the interactive systems;</li><br />
+                <em><u>Achievements:</u></em><br />
+                <li>developed an interactive augmented reality project for The Blagoveshchensk 2014 Day event;</li>
+                <li>developed a computer vision controlled video surveillance system to expand the capabilities of interactive floor projection software based on OpenCV C/C++ libraries;</li>
+                <li>developed visual effects for the interactive floor projection system in C/C++ based on openFrameworks and using OpenGL;</li>
+                <li>developed software in C/C++ for controlling an interactive showcase system;</li>
+                <li>developed software in C/C++ for controlling an interactive kid’s playdesk system.</li>
+            </td>
+        </tr>
+        <!-- 
+        --
+        Thematica
+        --
+        -->
+        <tr>
+            <td width="25%">
+                <img src="https://img.shields.io/badge/July%202012-June%202013-990000">
+            </td>
+            <td width="75%">
+                 <table width="100%">
+                    <tr>
+                        <td>
+                            <a href="http://thematica.info/"><img src="images/icons/work/thematica.png" height=72></a>
+                        </td>
+                        <td>                  
+                            <h1><a href="http://thematica.info/">Thematica</a></h1>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td />
+            <td>
+                <h2>Game developer</h2>
+                <u>Achievements:</u></em><br />
+                <li>developed the game "Guess the Dress!" for iOs in X-Code using Objective-C;</li>
+                <li>adapted the game "Guess the Dress!" for Android in Unity3d using C#;</li>
+                <li>developed the game "Cars in Sandbox" for iOs in X-Code using Objective-C;</li>
+                <li>adapted the game "Cars in Sandbox" for Android in Unity3d using C #;</li>
+                <li>developed 3 other games (not released) for Android in Unity3d.</li>
+            </td>
+        </tr>
     </table>
     <hr>
   <p>
