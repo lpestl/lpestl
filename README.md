@@ -114,6 +114,11 @@ ___
   <p>
     <hr>
     <table width="100%">
+        <!-- 
+        --
+        TEMPORAL GAMES 
+        --
+        -->
         <tr>
             <td width="25%">
                 <img src="https://img.shields.io/badge/September%202022-present-4dc71f">
@@ -130,6 +135,78 @@ ___
                     </tr>
                 </table>
             </td>
+        </tr>
+        <tr>
+            <td />
+            <td>
+                <h3>Senior UE5 Engineer (C++)</h3>
+                <em><u>Responsibilities:</u></em><br />
+                <li>Implementation of Virtual Beings components and subsystems in Unreal Engine 5 and integration with backend AI solutions using C++;</li>
+                <li>adaptation of functionality to work in multiplayer based on the online meta-universe project;</li>
+                <li>plugins architecture improvements.</li>
+                <br />
+                <em><u>Achievements:</u></em><br />
+                <li>developed a universal plug-in "State Machine" with a flexible graphical graph editor in UE5 (based on the Behavior tree Editor);</li>
+                <li>various state machines for the behavior of virtual characters have been developed and implemented in the project, such as the Dialogue State Machine, the State Behavior Machine, the Emotional State Machine;</li>
+                <li>implemented the logic of creating and managing voice chat rooms for virtual characters (AI) and regular users;</li>
+                <li>linking and setting up all of the above modules with the visual component of virtual characters, namely lipsync, visemes for literals, gestures, facial emotions, etc.</li>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <br />
+            </td>
+            <td>
+                <br />
+            </td>            
+        </tr>
+        <!-- 
+        --
+        VK / MY GAMES 
+        --
+        -->
+        <tr>
+            <td width="25%">
+                <img src="https://img.shields.io/badge/January%202022-July%202022-007700">
+            </td>
+            <td width="75%">
+                <table width="100%">
+                    <tr>
+                        <td>
+                            <a href="https://team.vk.company/"><img src="images/icons/VK_Compact_Logo_(2021-present).svg" width=48></a>
+                            <a href="https://my.games/"><img src="images/icons/work/mygames.png" width=64></a>
+                        </td>
+                        <td style="width:75%">                  
+                            <h3><a href="https://team.vk.company/">VK</a></h3>
+                            <h1><a href="https://my.games/">My.Games Inc.</a></h1>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td />
+            <td>
+                <h3>Senior Unreal Engine Developer (UE4/5 C++)</h3>
+                <em><u>Responsibilities:</u></em><br />
+                <li>direct interaction with the Art Department and Game Designers to collect requests for the development of new tools and new game mechanics;</li>
+                <li>formation of technical specifications upon request and planning;</li>
+                <li>development and integration of new tools for designers.</li>
+                <br />
+                <em><u>Achievements:</u></em><br />
+                <li>developed a standalone plugin for UE4/5 (independent of the main game code) QuestSystem, for creating and editing game quests consisting of quest stages. The quest editor is presented as a graph editor inside UE4/5 (based on the Behavior tree Editor);</li>
+                <li>various state machines for the behavior of virtual characters have been developed and implemented in the project, such as the Dialogue State Machine, the State Behavior Machine, the Emotional State Machine;</li>
+                <li>developed the Unreal Editor extension for managing NPC Camps (these are certain points on the map with dynamic NPC spawn and rewards for overcoming them);</li>
+                <li>developed the Unreal Editor extension to create and configure universal PuzzleLikeActivities in the game.</li>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <br />
+            </td>
+            <td>
+                <br />
+            </td>            
         </tr>
     </table>
     <hr>
