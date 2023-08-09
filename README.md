@@ -53,11 +53,21 @@ ___
     <hr>
     <table>
         <tr>
-            <td>                
-            </td>
-            <td>                
+            <td>
+                <em><strong>Programming languages:</strong></em><br />
+                - <img alt="C/C++" src="https://img.shields.io/badge/C\C++-009900">, <img alt="C#" src="https://img.shields.io/badge/C%23-009900">, <img alt="Python" src="https://img.shields.io/badge/Python-999900">, <img alt="F#" src="https://img.shields.io/badge/F%23-999900">, <img alt="Java" src="https://img.shields.io/badge/Java-995522">, <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-993311">, etc.<br />
+                <em><strong>Version control:</strong></em><br />
+                - <img alt="C/C++" src="https://img.shields.io/badge/Git-009900">, <img alt="SVN" src="https://img.shields.io/badge/SVN-999900">, <img alt="Perforce" src="https://img.shields.io/badge/Perforce-009900">, <img alt="mercurial" src="https://img.shields.io/badge/mercurial-990000">.<br />
+                <em><strong>IDEs:</strong></em><br />
+                - <img alt="Visual Studio" src="images/icons/ides/Visual_Studio_Icon_2019.svg" width=24>, <img alt="Visual Studio Code" src="images/icons/ides/Visual_Studio_Code_1.35_icon.svg" width=24>, <img alt="JetBrains Rider" src="images/icons/ides/JetBrains_Rider_Icon.svg" width=24>, <img alt="JetBrains CLion" src="images/icons/ides/Clion.svg" width=24>, <img alt="JetBrains PyCharm" src="images/icons/ides/PyCharm_Icon.svg" width=24>, <img alt="JetBrains IJIdea" src="images/icons/ides/IntelliJ_IDEA_Icon.svg" width=24>, <img alt="Eclipce" src="images/icons/ides/JetBrains_Rider_Icon.svg" width=24>, AndroidStudio, RStudio, WebStorm, Mono, XCode, RAD Studio.<br />
             </td>
             <td>
+                <em><strong>Framework, SDKs, libraries, tools:</strong></em><br />
+                - DirectX, OpenGL, OpenGLSE, AndroidSDK, NDK, OpenCV, OpenFrameworks, OpenSSL, OpenNN, TizenSDK, AngularJS, SDL2, .NET Core, .NET framework, MFC, WPF, MVVM, Xamarin, CLI/CLR, Win32, WinAPI.
+Engines:
+- Unreal Engine 4/5, Unigine Engine 2.7, Unity3d, NeoAxis, Cocos2d, CocosSharp, CoronaSDK, OGRE.
+Application packages:
+- Matlab, Mathcad, AutoCAD, 3ds Max, Blender, Photoshop, SolidWorks, ErWin, BPWin, CorelDraw.
             </td>
         </tr>
     </table>
