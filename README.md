@@ -139,7 +139,7 @@ ___
         <tr>
             <td />
             <td>
-                <h3>Senior UE5 Engineer (C++)</h3>
+                <h2>Senior UE5 Engineer (C++)</h2>
                 <em><u>Responsibilities:</u></em><br />
                 <li>Implementation of Virtual Beings components and subsystems in Unreal Engine 5 and integration with backend AI solutions using C++;</li>
                 <li>adaptation of functionality to work in multiplayer based on the online meta-universe project;</li>
@@ -187,7 +187,7 @@ ___
         <tr>
             <td />
             <td>
-                <h3>Senior Unreal Engine Developer (UE4/5 C++)</h3>
+                <h2>Senior Unreal Engine Developer (UE4/5 C++)</h2>
                 <em><u>Responsibilities:</u></em><br />
                 <li>direct interaction with the Art Department and Game Designers to collect requests for the development of new tools and new game mechanics;</li>
                 <li>formation of technical specifications upon request and planning;</li>
@@ -198,6 +198,51 @@ ___
                 <li>various state machines for the behavior of virtual characters have been developed and implemented in the project, such as the Dialogue State Machine, the State Behavior Machine, the Emotional State Machine;</li>
                 <li>developed the Unreal Editor extension for managing NPC Camps (these are certain points on the map with dynamic NPC spawn and rewards for overcoming them);</li>
                 <li>developed the Unreal Editor extension to create and configure universal PuzzleLikeActivities in the game.</li>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <br />
+            </td>
+            <td>
+                <br />
+            </td>            
+        </tr>
+        <!-- 
+        --
+        LESTA / WARGAMING 
+        --
+        -->
+        <tr>
+            <td width="25%">
+                <img src="https://img.shields.io/badge/July%202019-January%202022-779900">
+            </td>
+            <td width="75%">
+                <table width="100%">
+                    <tr>
+                        <td>
+                            <a href="https://lesta.ru/"><img src="images/icons/work/lesta-logo.jpg" width=48></a>
+                            <a href="https://wargaming.com/"><img src="images/icons/work/Wargaming_Logo.svg" width=64></a>
+                        </td>
+                        <td style="width:75%">                  
+                            <h3><a href="https://lesta.ru/">Lesta Studio</a></h3>
+                            <h1><a href="https://wargaming.com/">Wargaming Saint Peterburg</a></h1>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td />
+            <td>
+                <h2>Generalist programmer/Tech & Tools department</h2>
+                <em><u>Achievements:</u></em><br />
+                <li>developed of a server API for automating game playtests (Python, flask, docker-compose, elasticsearch, logstash, kibana);</li>
+                <li>developed of a client application for automating playtests (WPF, monotorrent, API integration for interacting with Jenkins, Team City);</li>
+                <li>developed of utilities for setting control points for cameras in Unreal Engine 4 (UE4, Bluetilities widgets);</li>
+                <li>developed of module GitSourceControl with visualization of different branches, the ability to switch between branches in the editor, the ability to use LFS features to lock / unlock binary files (UE4 / C++);</li>
+                <li>developed of a utility for exporting data assets to json format and dynamically generating new data assets from json (import) (UE4 / C++);</li>
+                <li>participation in the implementation of the gameplay functionality of the new AAA game in the sci-fi setting (UE4 / C++).</li>
             </td>
         </tr>
         <tr>
