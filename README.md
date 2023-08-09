@@ -152,14 +152,6 @@ ___
                 <li>linking and setting up all of the above modules with the visual component of virtual characters, namely lipsync, visemes for literals, gestures, facial emotions, etc.</li>
             </td>
         </tr>
-        <tr>
-            <td>
-                <br />
-            </td>
-            <td>
-                <br />
-            </td>            
-        </tr>
         <!-- 
         --
         VK / MY GAMES 
@@ -200,14 +192,6 @@ ___
                 <li>developed the Unreal Editor extension to create and configure universal PuzzleLikeActivities in the game.</li>
             </td>
         </tr>
-        <tr>
-            <td>
-                <br />
-            </td>
-            <td>
-                <br />
-            </td>            
-        </tr>
         <!-- 
         --
         LESTA / WARGAMING 
@@ -245,13 +229,61 @@ ___
                 <li>participation in the implementation of the gameplay functionality of the new AAA game in the sci-fi setting (UE4 / C++).</li>
             </td>
         </tr>
+        <!-- 
+        --
+        FREELANCE 2019 
+        --
+        -->
         <tr>
-            <td>
-                <br />
+            <td width="25%">
+                <img src="https://img.shields.io/badge/February%202019-July%202019-FFFF00">
             </td>
+            <td width="75%">
+                <h1><a href="https://freelance.habr.com/freelancers/lpestl/">Freelance</a></h1>
+            </td>
+        </tr>
+        <tr>
+            <td />
             <td>
-                <br />
-            </td>            
+                <h2>Software engineer</h2>
+                <em><u>Achievements:</u></em><br />
+                <li>development of interactive VR presentation for new generation trains Hyperloop (Unreal Engine 4, Blueprints);</li>
+                <li>participation in the development of add-ons for OpenFrameworks (open source) (C/C ++);</li>
+                <li>development of a WPF application for diagrams of the sequence of execution of scripts (.Net C# WPF).</li>
+            </td>
+        </tr>
+        <!-- 
+        --
+        RUBIUS GROUP LLC 
+        --
+        -->
+        <tr>
+            <td width="25%">
+                <img src="https://img.shields.io/badge/April%202018-February%202019-995522">
+            </td>
+            <td width="75%">
+                 <table width="100%">
+                    <tr>
+                        <td>
+                            <a href="https://rubius.com/"><img src="images/icons/work/rubius-logo.png" width=64></a>
+                        </td>
+                        <td style="width:75%">                  
+                            <h1><a href="https://rubius.com/">Rubius Group LLC</a></h1>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td />
+            <td>
+                <h2>Category 1 programmer (Lead software engineer)</h2>
+                <em><u>Achievements:</u></em><br />
+                <li>developed a desktop client for a client-server engineering application for civil construction work visualization;</li>
+                <li>developed of SDK for integrating Unigine Engine 2.7 render core into the .NET applications (C#, C++);</li>
+                <li>developed of an application (WPF, DevExpress, SQL Server, Paradox 7.x) for monitoring and vibration diagnostics for DRG electric motors;</li>
+                <li>developed of an application to demonstrate the internal structure of various engines, visualized using CAD models (Unreal Engine / C++).</li>
+            </td>
         </tr>
     </table>
     <hr>
