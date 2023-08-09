@@ -51,9 +51,9 @@ ___
   </summary>
   <p>
     <hr>
-    <table style="width:100%">
+    <table width="100%">
         <tr>
-            <td style="width:50%">
+            <td width="50%">
                 <em><strong>Programming languages:</strong></em><br />
                 - <img alt="C/C++" src="https://img.shields.io/badge/C\C++-009900">, <img alt="C#" src="https://img.shields.io/badge/C%23-009900">, <img alt="Python" src="https://img.shields.io/badge/Python-999900">, <img alt="F#" src="https://img.shields.io/badge/F%23-999900">, <img alt="Java" src="https://img.shields.io/badge/Java-995522">, <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-993311">, etc.<br />
                 <em><strong>Version control:</strong></em><br />
@@ -63,7 +63,7 @@ ___
                 <em><strong>Databases:</strong></em><br />
                 - <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-009900">, <img alt="MySQL" src="https://img.shields.io/badge/MySQL-999900">, <img alt="SQLite" src="https://img.shields.io/badge/SQLite-009900">, <img alt="MS Access" src="https://img.shields.io/badge/MS%20Access-009900">, <img alt="IndexedDB" src="https://img.shields.io/badge/IndexedDB-995522">, <img alt="Paradox" src="https://img.shields.io/badge/Paradox-995522">.<br />
             </td>
-            <td style="width:50%">
+            <td width="50%">
                 <em><strong>Framework, SDKs, libraries, tools:</strong></em><br />
                 - <img alt="DirectX" src="https://img.shields.io/badge/DirectX-999900">, <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-009900">, <img alt="OpenGLSE" src="https://img.shields.io/badge/OpenGLSE-999900">, <img alt="AndroidSDK" src="https://img.shields.io/badge/AndroidSDK-999900">, <img alt="NDK" src="https://img.shields.io/badge/NDK-999900">, <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-009900">, <img alt="OpenFrameworks" src="https://img.shields.io/badge/OpenFrameworks-009900">, <img alt="OpenSSL" src="https://img.shields.io/badge/OpenSSL-995522">, <img alt="OpenNN" src="https://img.shields.io/badge/OpenNN-990000">, <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-990000">, <img alt="TizenSDK" src="https://img.shields.io/badge/TizenSDK-999900">, <img alt="AngularJS" src="https://img.shields.io/badge/AngularJS-995522">, <img alt="SDL2" src="https://img.shields.io/badge/SDL2-999900">, <img alt=".NET Core" src="https://img.shields.io/badge/.NET%20Core-009900">, <img alt=".NET Framework" src="https://img.shields.io/badge/.NET%20Framework-009900">, <img alt="MFC" src="https://img.shields.io/badge/MFC-999900">, <img alt="WPF" src="https://img.shields.io/badge/WPF-009900">, <img alt="MVVM" src="https://img.shields.io/badge/MVVM-009900">, <img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-009900">, <img alt="CLI/CLR" src="https://img.shields.io/badge/CLI\CLR-009900">, <img alt="Win32" src="https://img.shields.io/badge/Win32-995522">, <img alt="WinAPI" src="https://img.shields.io/badge/WINAPI-999900">.<br />
                 <em><strong>Engines:</strong></em><br />
@@ -87,21 +87,12 @@ ___
   </summary>
   <p>
     <hr>
-    <table>
+    <table width="100%">
         <tr>
-            <td>
+            <td width="20%">
                 <img src="https://img.shields.io/badge/2006-2013-4dc71f"> 
             </td>
-            <td>
-                <style>
-                    .vl {
-                        border-left: 2px solid lightblue;
-                        height: 70px;
-                    }
-                </style>
-                <div class="vl"></div>
-            </td>
-            <td>
+            <td width="80%">
                 <a href="https://www.amursu.ru/">The Amur State University</a>, Blagoveshchensk <br />
                 <a href="https://www.amursu.ru/obrazovanie/fakultety/fmi/">Department of Mathematics and Computer Science</a> <br />
                 Master`s Degree in <em><strong>“Automated Information Processing and Control Systems”</strong></em>.<br />
@@ -122,58 +113,22 @@ ___
   </summary>
   <p>
     <hr>
-    <table>
+    <table width="100%">
         <tr>
-            <td>
+            <td width="25%">
                 <img src="https://img.shields.io/badge/September%202022-present-4dc71f">
             </td>
-            <td style="width:75%">
-                <table style="width:100%">
+            <td width="75%">
+                <table width="100%">
                     <tr>
                         <td>
                             <a href="https://temporal.games/"><img src="images/icons/work/temporal_logo_icon.svg" width=64></a>
                         </td>
-                        <td style="width:75%">
-                            <style>
-                                .container {
-                                    height: 64px;
-                                    position: relative;
-                                }
-                                .vertical-center {
-                                    position: absolute;
-                                    top: 50%;
-                                    transform: translateY(-50%);
-                                }
-                            </style>                    
-                            <div class="container">
-                                <div class="vertical-center">
-                                    <a href="https://temporal.games/"><h1>Temporal Games inc.</h1></a>
-                                </div>
-                            </div>        
+                        <td style="width:75%">                  
+                            <a href="https://temporal.games/"><h1>Temporal Games inc.</h1></a>
                         </td>
                     </tr>
                 </table>
-            <!--
-                <a href="https://temporal.games/">
-                    <img src="images/icons/work/temporal_logo_icon.svg" width=64>
-                    <style>
-                        .container {
-                            height: 64px;
-                            position: relative;
-                        }
-                        .vertical-center {
-                            position: absolute;
-                            top: 50%;
-                            transform: translateY(-50%);
-                        }
-                    </style>                    
-                    <div class="container">
-                        <div class="vertical-center">
-                            Temporal Games inc.
-                        </div>
-                    </div>
-                </a>
-            -->
             </td>
         </tr>
     </table>
