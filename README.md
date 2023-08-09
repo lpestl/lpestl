@@ -1,16 +1,25 @@
-### Hi there 👋
+<h3 align="center">Hello👋! My names is Michael.</h3>
+I am a <img src="images/typing_text.svg" align="center">
 
-<!--
-**lpestl/lpestl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
-Here are some ideas to get you started:
+![lpestl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lpestl&theme=github-compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 
+<img src="https://github-readme-stats.vercel.app/api?username=lpestl&show_icons=true&theme=transparent">
+
+```Diff
++           ██╗      ██████╗ ███████╗███████╗████████╗  ██╗      
++           ██║      ██╔══██╗██╔════╝██╔════╝╚══██╔══╝  ██║      
++           ██║      ██████╔╝█████╗  ███████╗   ██║     ██║      
++           ██║      ██╔═══╝ ██╔══╝  ╚════██║   ██║     ██║      
++           ██████╗  ██║     ███████╗███████║   ██║     ██████╗  
++           ╚═════╝  ╚═╝     ╚══════╝╚══════╝   ╚═╝     ╚═════╝  
+```
+ -->
+
+<p align="right">
+<!--RECENT_ACTIVITY:last_update-->
+<i>Last refresh</i> : <b>Wednesday, August 9, 2023, 8:12:15 AM</b>
+<!--RECENT_ACTIVITY:last_update_end-->
+ 
