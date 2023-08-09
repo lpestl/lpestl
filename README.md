@@ -7,19 +7,19 @@
 <!-- CONTACT DETAILS -->
 ___
 
-<table style="width:100%">
+<table width="100%">
   <tr>
-    <td style="width:33%">
+    <td width="33.3%">
         <strong>Date of birth:</strong> August 13, 1987 <br />
         <strong>Nationality:</strong> Russia <br />
         <strong>Marital status:</strong> Married <br />
     </td>
-    <td style="width:33%">
+    <td width="33.3%">
         <a href="mailto:lpestlname@gmail.com"><img src="images/icons/Gmail_icon_(2020).svg" width=16> lpestlname@gmail.com </a><br />
         <a href="tel:+7-931-531-66-25"><img src="images/icons/Circle-icons-phone.svg" width=16> +7 (931) 531-66-25 </a><br />
         <a href="https://t.me/lPestl"><img src="images/icons/Telegram_logo.svg" width=16> @lPestl </a><br />
     </td>
-    <td style="width:33%">
+    <td width="33.3%">
         <a href="https://discordapp.com/users/408238165443477504/"><img src="images/icons/discord-icon.svg" width=16> lpestl#3234 </a><br />
         <a href="https://www.linkedin.com/in/lpestl"><img src="images/icons/LinkedIn_icon.svg" width=16> in/lpestl </a><br />
         <a href="https://vk.com/lpestl"><img src="images/icons/VK_Compact_Logo_(2021-present).svg" width=16> /lpestl </a><br />
@@ -125,7 +125,7 @@ ___
                             <a href="https://temporal.games/"><img src="images/icons/work/temporal_logo_icon.svg" width=64></a>
                         </td>
                         <td style="width:75%">                  
-                            <a href="https://temporal.games/"><h1>Temporal Games inc.</h1></a>
+                            <h1><a href="https://temporal.games/">Temporal Games inc.</a></h1>
                         </td>
                     </tr>
                 </table>
