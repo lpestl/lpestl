@@ -7,7 +7,7 @@
 <!-- CONTACT DETAILS -->
 ___
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="33.3%">
         <strong>Date of birth:</strong> August 13, 1987 <br />
@@ -124,7 +124,7 @@ ___
                 <img src="https://img.shields.io/badge/September%202022-present-4dc71f">
             </td>
             <td width="75%">
-                <table width="100%">
+                <table align="center" width="100%">
                     <tr>
                         <td>
                             <a href="https://temporal.games/"><img src="images/icons/work/temporal_logo_icon.svg" width=64></a>
@@ -162,7 +162,7 @@ ___
                 <img src="https://img.shields.io/badge/January%202022-July%202022-007700">
             </td>
             <td width="75%">
-                <table width="100%">
+                <table align="center" width="100%">
                     <tr>
                         <td>
                             <a href="https://team.vk.company/"><img src="images/icons/VK_Compact_Logo_(2021-present).svg" width=48></a>
@@ -202,7 +202,7 @@ ___
                 <img src="https://img.shields.io/badge/July%202019-January%202022-779900">
             </td>
             <td width="75%">
-                <table width="100%">
+                <table align="center" width="100%">
                     <tr>
                         <td>
                             <a href="https://lesta.ru/"><img src="images/icons/work/lesta-logo.jpg" width=48></a>
@@ -262,7 +262,7 @@ ___
                 <img src="https://img.shields.io/badge/April%202018-February%202019-995522">
             </td>
             <td width="75%">
-                 <table width="100%">
+                 <table align="center" width="100%">
                     <tr>
                         <td>
                             <a href="https://rubius.com/"><img src="images/icons/work/rubius-logo.png" width=64></a>
@@ -295,7 +295,7 @@ ___
                 <img src="https://img.shields.io/badge/January%202018-April%202018-993300">
             </td>
             <td width="75%">
-                 <table width="100%">
+                 <table align="center" width="100%">
                     <tr>
                         <td>
                             <a href="https://octoboxint.com/"><img src="images/icons/work/octobox.png" width=72></a>
@@ -327,7 +327,7 @@ ___
                 <img src="https://img.shields.io/badge/August%202015-April%202017-991100">
             </td>
             <td width="75%">
-                 <table width="100%">
+                 <table align="center" width="100%">
                     <tr>
                         <td>
                             <a href="https://lanit-tercom.ru/"><img src="images/icons/work/logo-lanit-tercom.png" height=64></a>
@@ -365,7 +365,7 @@ ___
                 <img src="https://img.shields.io/badge/December%202013-June%202014-990000">
             </td>
             <td width="75%">
-                 <table width="100%">
+                 <table align="center" width="100%">
                     <tr>
                         <td>
                             <a href="http://hiteklab.ru/"><img src="images/icons/work/hiteklogo3.png"></a>
@@ -402,7 +402,7 @@ ___
                 <img src="https://img.shields.io/badge/July%202012-June%202013-990000">
             </td>
             <td width="75%">
-                 <table width="100%">
+                 <table align="center" width="100%">
                     <tr>
                         <td>
                             <a href="http://thematica.info/"><img src="images/icons/work/thematica.png" height=72></a>
@@ -428,7 +428,227 @@ ___
         </tr>
     </table>
     <hr>
-  <p>
+    <p>
+    <br />
+    <details>
+        <summary>
+            <font size="4" color="#039BE5">Experience in related fields</font>
+        </summary>
+        <p>
+        <table width="100%">
+            <!-- 
+            --
+            FREELANCE
+            --
+            -->
+            <tr>
+                <td width="25%">
+                    <img src="https://img.shields.io/badge/April%202017-January%202018-FFFF00"><br />
+                    <img src="https://img.shields.io/badge/September%202006-August%202015-FF0000">
+                </td>
+                <td width="75%">
+                    <h1><a href="https://freelance.habr.com/freelancers/lpestl/">Freelance</a></h1>
+                </td>
+            </tr>
+            <tr>
+                <td />
+                <td>
+                    <h2>Software engineer</h2>
+                    <em><u>Achievements:</u></em><br />
+                    <li>developed the software and related documentation for a master's thesis titled “Designing a Fuzzy Logic-Based Medical Diagnostics Information System”;</li>
+                    <li>developed a centralized automated system for processing court applications and SMS notices for the Amur Region Lawyer Bar Association;</li>
+                    <li>participated in the development of a mobile app that incorporated a 2D game: developed the UI for game scenes in CocosSharp; developed a module for connecting to device sensors via Bluetooth Low Energy;</li>
+                    <li>developed an app core in F# linked to Xamarin.Forms;</li>
+                    <li>developed an automated information system (AIS) called “A Multi-Platform Catalogue of Low Poly Models”. It was made in Unity3d in C#, and an SQLite database was built. 3dsMax was used in the development process;</li>
+                    <li>developed a software program called “Visualization of 3D Models in Computer Graphics”. It was made in Microsoft Visual Studio in C++ using Win32App, DirectX 9;</li>
+                    <li>developed a game titled “Endless maze” for the Android mobile platform. It was made in Unity3d in C#;</li>
+                    <li>developed a software program called “Program for Computing a Theoretical Micrograph of the Raster Image of the Domain Structure of Ferroelectrics”. It was made in Microsoft Visual Studio in C++ using WinForms, CLR, .NET framework and the OpenCV computer vision library;</li>
+                    <li>developed a software program and a database called “Short-Term Forecasting of Currency Exchange Rates”. It was made in Embarcadero RAD Studio in C++ using ADO technologies. The DB was made in Microsoft Access;</li>
+                    <li>developed a software program called “Automated Optimization of Production Processes Using Linear Programming Tasks”. It was made in Embarcadero RAD Studio in C++;</li>
+                    <li>developed a software program called “Visualization of Geometric Deterministic Fractals”. It was made in Microsoft Visual Studio in C++ using MFC technologies;</li>
+                    <li> developed visual effects for an “interactive floor” system. It was made in Microsoft Visual Studio in C++ using the openFrameworks, SDL and OpenGL libraries;</li>
+                    <li>developed a software program for an Augmented Reality management system. It was made in Microsoft Visual Studio in C++ using openFrameworks, ARtoolKitPlus, Vuforia libraries;</li>
+                    <li>developed a software program called "Visualization of Throwing a Sphere in a Vacuum”. It was made in Embarcadero RAD Studio in C++ using OpenGL v1;</li>
+                    <li>developed a client / server chat software. It was made in Embarcadero RAD Studio in C++ using TCP/IP technologies;</li>
+                    <li>plus lots of other sundry projects.</li>
+                </td>
+            </tr>
+            <hr>    
+            <!-- 
+            --
+            AldanzolotoBank 
+            --
+            -->
+            <tr>
+                <td width="25%">
+                    <img src="https://img.shields.io/badge/December%202014-May%202015-FF5522">
+                </td>
+                <td width="75%">
+                    <table align="center" width="100%">
+                        <tr>
+                            <td>
+                                <a href="https://www.azbank.ru/"><img src="images/icons/work/aldanzolotobank-priznan-bankrotom.png" width=128></a>
+                            </td>
+                            <td style="width:75%">                  
+                                <h1><a href="https://www.azbank.ru/">AldanzolotoBank</a></h1>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td />
+                <td>
+                    <h2>Head of Information Security and New Technologies</h2>
+                    <em><u>Responsibilities:</u></em><br />
+                    <li>information security assurance in a banking institution in compliance with Bank of Russia standard STO BR IBBS-1.0-2014.</li>
+                    <br />
+                    <em><u>Achievements:</u></em><br />
+                    <li>a self-assessment of the lending institution was conducted in accordance with STO BR IBBS-1.0-2014;</li>
+                    <li>the lending institution obtained a license as required by RF Government Resolution No. 313 of April 16, 2012, and guidance on the licensed activity;</li>
+                    <li>automatic exchange of information with the Federal Tax Service was set up and “Corporate Taxpayer” software was deployed;</li>
+                    <li>internal bank documents (bylaws, guidelines, logs, etc.) were prepared and implemented.</li>
+                </td>
+            </tr>
+            <!-- 
+            --
+            Yakutia Railways OJSC 
+            --
+            -->
+            <tr>
+                <td width="25%">
+                    <img src="https://img.shields.io/badge/June%202014-November%202014-ff0000">
+                </td>
+                <td width="75%">
+                    <table align="center" width="100%">
+                        <tr>
+                            <td>
+                                <a href="https://rw-y.ru/"><img src="images/icons/work/zhdya-logo.jpg" width=128></a>
+                            </td>
+                            <td style="width:75%">                  
+                                <h1><a href="https://rw-y.ru/">Yakutia Railways OJSC</a></h1>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td />
+                <td>
+                    <h2>Data processing center engineer</h2>
+                    <em><u>Responsibilities:</u></em><br />
+                    <li>provided support for and further developed an existing Production Enterprise Management configuration  in 1C.</li>
+                    <br />
+                    <em><u>Achievements:</u></em><br />
+                    <li>developed software for automating enterprise network management and administration processes in Microsoft Visual Studio in C++ using WinForm, CLR, .Net Framework 4 technologies;</li>
+                    <li>rolled out and followed up the developed software;</li>
+                    <li>developed a module for processing XML messages in a Production Enterprise Management configuration;</li>
+                    <li>LAN installation;</li>
+                    <li>provided technical support for other employees.</li>
+                </td>
+            </tr>
+            <!-- 
+            --
+            The Amur Consumer Cooperative Union
+            --
+            -->
+            <tr>
+                <td width="25%">
+                    <img src="https://img.shields.io/badge/July%202013-November%202013-ff0000">
+                </td>
+                <td width="75%">
+                    <table align="center" width="100%">
+                        <tr>
+                            <td>
+                                <a href="http://amur-28.ru/"><img src="images/icons/work/amur-oblpotrebsouz-logo.jpg" width=128></a>
+                            </td>
+                            <td style="width:75%">                  
+                                <h1><a href="http://amur-28.ru/">The Amur Consumer Cooperative Union</a></h1>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td />
+                <td>
+                    <h2>System administrator</h2>
+                    <em><u>Responsibilities:</u></em><br />
+                    <li>made field trips to various locations in the region to ensure full automation of retail outlets;</li>
+                    <li>installed and commissioned cashier equipment;</li>
+                    <li>LAN installation;</li>
+                    <li>set up, supported and hooked up local outlet databases to a distributed regional database based on a configuration in “1C: Rarus”.</li>
+                    <br />
+                    <em><u>Achievements:</u></em><br />
+                    <li>set up, supported and hooked up the regional database to a distributed RF database based on a configuration in “1C: Rarus”;</li>
+                    <li>set up two district databases (in Tambovsky and Zavitinsky districts), supported and hooked up the databases to a distributed regional database based on a configuration in “1C: Rarus”;</li>
+                    <li>installed and set up cashier equipment, provided follow up support for 6 retail outlets.</li>
+                </td>
+            </tr>
+            <!-- 
+            --
+            The Octyabrsky Revolution Shipyard 
+            --
+            -->
+            <tr>
+                <td width="25%">
+                    <img src="https://img.shields.io/badge/December%202011-February%202012-ff0000">
+                </td>
+                <td width="75%">
+                    <table align="center" width="100%">
+                        <tr>
+                            <td>
+                                <a href="https://amurnelma.ru/"><img src="images/icons/work/amur-shipyard.jpg" width=64></a>
+                            </td>
+                            <td style="width:75%">                  
+                                <h1><a href="https://amurnelma.ru/">The Octyabrsky Revolution Shipyard</a></h1>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td />
+                <td>
+                    <h2>Software engineer</h2>
+                    <li>built, developed and implemented databases based on a new configuration in “1S: Enterprise”;</li>
+                    <li>office equipment repair and maintenance;</li>
+                    <li>LAN installation.</li>
+                </td>
+            </tr>
+            <!-- 
+            --
+            Amur Construction Fair LLC 
+            --
+            -->
+            <tr>
+                <td width="25%">
+                    <img src="https://img.shields.io/badge/June%202010-September%202010-ff0000">
+                </td>
+                <td width="75%">
+                    <table align="center" width="100%">
+                        <tr>
+                            <td>
+                                <a href="https://asyastroy.ru/"><img src="images/icons/work/amur-asya-logo.jpg" width=72></a>
+                            </td>
+                            <td style="width:75%">                  
+                                <h1><a href="https://asyastroy.ru/">Amur Construction Fair LLC</a></h1>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td />
+                <td>
+                    <h2>System administrator</h2>
+                    <li>database support and maintenance;</li>
+                    <li>retail equipment maintenance and repair;</li>
+                    <li>LAN installation.</li>
+                </td>
+            </tr>
+        </table>
+    </datails>
 </details>
 
 <br />
