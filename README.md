@@ -648,13 +648,12 @@ ___
                 </td>
             </tr>
         </table>
-    </datails>
+        <p>
+    </details>
+    <p>
 </details>
-
 <br />
 <br />
-
-
 
 <!-- SOME INFOGRAPHICS -->
 
