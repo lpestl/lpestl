@@ -1,7 +1,7 @@
 <!-- HELLO HEADER -->
 <h3 align="center">Hello👋! My names is <font color="#039BE5">Michael</font>.</h3>
 
-
+<!-- ![](https://komarev.com/ghpvc/?username=lpestl&label=Profile%20Visits&color=blue&style=for-the-badge) -->
 
 
 <!-- CONTACT DETAILS -->
