@@ -61,7 +61,7 @@ ___
                 <em><strong>IDEs:</strong></em><br />
                 - <img alt="Visual Studio" src="images/icons/ides/Visual_Studio_Icon_2019.svg" width=24>, <img alt="Visual Studio Code" src="images/icons/ides/Visual_Studio_Code_1.35_icon.svg" width=24>, <img alt="JetBrains Rider" src="images/icons/ides/JetBrains_Rider_Icon.svg" width=24>, <img alt="JetBrains CLion" src="images/icons/ides/Clion.svg" width=24>, <img alt="JetBrains PyCharm" src="images/icons/ides/PyCharm_Icon.svg" width=24>, <img alt="JetBrains IJIdea" src="images/icons/ides/IntelliJ_IDEA_Icon.svg" width=24>, <img alt="Eclipce" src="images/icons/ides/JetBrains_Rider_Icon.svg" width=24>, <img alt="Android Studio" src="images/icons/ides/Android_Studio_Icon_3.6.svg" width=24>, <img alt="RStudio" src="images/icons/ides/Antu_rstudio.svg" width=24>, <img alt="Mono" src="images/icons/ides/Mono_Project_Logo.svg" width=24>, <img alt="XCode" src="images/icons/ides/apple_xcode-icon.svg" width=24>, <img alt="RAD Studio" src="images/icons/ides/rad-studio.png" width=24>.<br />
                 <em><strong>Databases:</strong></em><br />
-                - <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-009900">, <img alt="MySQL" src="https://img.shields.io/badge/MySQL-999900">, <img alt="SQLite" src="https://img.shields.io/badge/SQLite-009900">, <img alt="MS Access" src="https://img.shields.io/badge/MS%20Access-009900">, <img alt="IndexedDB" src="https://img.shields.io/badge/IndexedDB-995522">, <img alt="Paradox" src="https://img.shields.io/badge/Paradox-995522">.<br />
+                - <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-009900">, <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-009900">, <img alt="MySQL" src="https://img.shields.io/badge/MySQL-999900">, <img alt="SQLite" src="https://img.shields.io/badge/SQLite-009900">, <img alt="MS Access" src="https://img.shields.io/badge/MS%20Access-009900">, <img alt="IndexedDB" src="https://img.shields.io/badge/IndexedDB-995522">, <img alt="Paradox" src="https://img.shields.io/badge/Paradox-995522">.<br />
             </td>
             <td width="50%">
                 <em><strong>Framework, SDKs, libraries, tools:</strong></em><br />
@@ -121,7 +121,7 @@ ___
         -->
         <tr>
             <td width="25%">
-                <img src="https://img.shields.io/badge/September%202022-present-4dc71f">
+                <img src="https://img.shields.io/badge/September%202022-march%202024-4dc71f">
             </td>
             <td width="75%">
                 <table align="center" width="100%">
