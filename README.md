@@ -1,8 +1,5 @@
 <!-- HELLO HEADER -->
-<h3 align="center">Hello👋! My names is <font color="#039BE5">Michael</font>.</h3>
-
-<!-- ![](https://komarev.com/ghpvc/?username=lpestl&label=Profile%20Visits&color=blue&style=for-the-badge) -->
-
+<h3 align="center">Hello👋! My name is <font color="#039BE5">Michael</font>.</h3>
 
 <!-- CONTACT DETAILS -->
 ___
@@ -17,6 +14,7 @@ ___
     <td width="33.3%">
         <a href="mailto:lpestlname@gmail.com"><img src="images/icons/Gmail_icon_(2020).svg" width=16> lpestlname@gmail.com </a><br />
         <a href="tel:+7-931-531-66-25"><img src="images/icons/Circle-icons-phone.svg" width=16> +7 (931) 531-66-25 </a><br />
+         <a href="tel:+7-931-531-66-25"><img src="images/icons/Circle-icons-phone.svg" width=16> +375-29-211-84-48 </a><br />
         <a href="https://t.me/lPestl"><img src="images/icons/Telegram_logo.svg" width=16> @lPestl </a><br />
     </td>
     <td width="33.3%">
@@ -36,11 +34,11 @@ ___
 
 ## <font color="#039BE5">Personal Profile Statement</font>
 
-&nbsp; &nbsp; &nbsp; &nbsp; I am a <img src="images/typing_text.svg" height=48>
- I have been developing software since 2007. I actively use ***C/C++, C#, Python***. Participated in projects in *F#, Java, Kotlin, JavaScript*. Contributed to Open-Source projects such as [Unreal Engine 4/5](https://github.com/EpicGames/UnrealEngine), [OpenFrameworks](https://github.com/openframeworks/openFrameworks), [TortoiseGit](https://github.com/TortoiseGit/TortoiseGit), etc. For the last 7 years I have been developing in C++ in the context of Unreal Engine. For a long time, I interacted with other engines, such as Unity, Unigine, NeoAxis, etc.  
-&nbsp; &nbsp; &nbsp; &nbsp; Self-starter and strong independent worker. Extensive experience in creating game mechanics with a focus on creating tools for designers. Strong team player. Have experience in managing small teams. Deep knowledge of backend and network client-server interactions. Familiar with the intricacies of version control systems.   
-&nbsp; &nbsp; &nbsp; &nbsp; I am able to find a common language with customers, identify needs for the end user and implement convenient and reliable applications from the UX point of view. In this regard, a fairly wide technology stack has developed. The main motivator for me is the feedback from the end users.
+&nbsp; &nbsp; &nbsp; &nbsp; I am a <img src="images/typing_text.svg" height=48> with **15+ years** of experience. During this time, I've written production solutions in everything that compiles, and sometimes even interpreted languages: **C/C++, C# (.NET), Python, JS, F#, Lua, etc.** I aspire to become an **Unreal Engine** evangelist; it's my primary professional tool. However, I also use **Unity**. In my outsourcing work, I've also written for **Unigine, Gobot, NeoAxis, and others**. Before AI became mainstream, I wrote solutions in **OpenCV**. My stack sometimes scares even me 😅.
 
+&nbsp; &nbsp; &nbsp; &nbsp; I've created games, VR/AR projects, server-side solutions, and interactive installations for international companies. I've **managed teams of 2 to 15 people**, designed **architecture**, and helped projects find new technical solutions.
+
+&nbsp; &nbsp; &nbsp; &nbsp; I get real satisfaction from seeing the joy and **emotion of end users**. I consider code poetry. I believe that **technology should make the world a better, simpler, and more accessible** place — that's what drives me in every project.
 
 
 <!-- TECH STACK -->
@@ -116,12 +114,90 @@ ___
     <table width="100%">
         <!-- 
         --
+        Talking Birds & Flying Fish
+        --
+        -->
+        <tr>
+            <td width="25%">
+                <img src="https://img.shields.io/badge/January%202025-September%202025-4dc71f">
+            </td>
+            <td width="75%">
+                <table align="center" width="100%">
+                    <tr>
+                        <td>
+                            <a href="https://talkingbirds.co/"><img src="images/icons/work/Talking-birds-flying-fish.webp" width=128></a>
+                        </td>
+                        <td style="width:75%">                  
+                            <h1><a href="https://talkingbirds.co/">Talking Birds & Flying Fish</a></h1>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td />
+            <td>
+                <h2>Tech Lead</h2>
+                <em><u>Responsibilities and achivements:</u></em><br />
+                <li>organized collaboration between development and design teams;</li>
+                <li>created technical plans based on client requirements;</li>
+                <li>designed solution architectures and estimated technical costs;</li>
+                <li>planned sprints and managed the development process;</li>
+                <li>executed projects through all stages of the development lifecycle;</li>
+                <li>participated in selecting technology stacks and architectural planning;</li>
+                <em><u>Achievements:</u></em><br />
+                <li>developed an interactive installation for an information security festival;</li>
+                <li>implemented an installation project for an autonomous vehicle exhibition stand;</li>
+                <li>successfully delivered multiple internal computer vision–based projects.</li>
+            </td>
+        </tr>
+        <!-- 
+        --
+        Brigada Games 
+        --
+        -->
+        <tr>
+            <td width="25%">
+                <img src="https://img.shields.io/badge/January%202024-January%202025-4dc71f">
+            </td>
+            <td width="75%">
+                <table align="center" width="100%">
+                    <tr>
+                        <td>
+                            <a href="https://brigada.games/"><img src="images/icons/work/Brigada.png.webp" width=128></a>
+                        </td>
+                        <td style="width:75%">                  
+                            <h1><a href="https://brigada.games/">Brigada Games inc.</a></h1>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td />
+            <td>
+                <h2>Tech Lead</h2>
+                <em><u>Responsibilities and achivements:</u></em><br />
+                <li>maintained and configured infrastructure and version control systems on dedicated servers, ensuring stable development environments;</li>
+                <li>facilitated cross-team communication and collaboration, improving overall workflow efficiency;</li>
+                <li>developed and enforced coding style guidelines, and introduced a culture of cross-code review, boosting code quality and maintainability;</li>
+                <li>designed and implemented core gameplay features in Unreal Engine, including visual effects, buffs/debuffs mechanics, and quest systems;</li>
+                <li>implemented a game session replay system with full client–server synchronization for multiplayer;</li>
+                <li>designed and developed a “command wheel” system enabling in-game team communication in multiplayer;</li>
+                <li>organized metadata storage on AWS with real-time synchronization, optimizing data management for multiplayer sessions;</li>
+                <li>supported, profiled, and resolved platform-specific bugs across Windows, Linux, Android, iOS, and macOS;</li>
+                <li>contributed new visual and gameplay effects to AAA-level projects, enhancing player experience;</li>
+                <li>developed and maintained a quest system for the single-player game editor, improving content creation efficiency.</li>
+            </td>
+        </tr>
+        <!-- 
+        --
         TEMPORAL GAMES 
         --
         -->
         <tr>
             <td width="25%">
-                <img src="https://img.shields.io/badge/September%202022-present-4dc71f">
+                <img src="https://img.shields.io/badge/September%202022-February%202024-4dc71f">
             </td>
             <td width="75%">
                 <table align="center" width="100%">
@@ -139,7 +215,7 @@ ___
         <tr>
             <td />
             <td>
-                <h2>Senior UE5 Engineer (C++)</h2>
+                <h2>Senior UE5 Engineer (C++) / Tech Lead</h2>
                 <em><u>Responsibilities:</u></em><br />
                 <li>Implementation of Virtual Beings components and subsystems in Unreal Engine 5 and integration with backend AI solutions using C++;</li>
                 <li>adaptation of functionality to work in multiplayer based on the online meta-universe project;</li>
